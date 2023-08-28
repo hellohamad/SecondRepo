@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} 
+/* EVENLY SY EQUALLY SPACES ATI 
+BETWEEN SY DRMYAN SY SPACES ATI
+AROUNG SY SIDE SY  EDGES SY KUM ATI 
+ALign items center sy center ma ajati div ka */
+
+
+.boxes{
+    height: 600px;
+    width: 900px;
+    background-color: black;
+    margin: 0 auto;
+    display: flex;
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly; */
+    /* justify-content:start ;
+    align-items: center; */
+    /* gap: 30px; */
+    /* flex-direction: column-reverse; */
+    /* flex-direction:row-reverse ; */
+    
+}
+.box1{
+    height: 200px;
+    width:200px;
+    background-color: red;
+}
+.box2{
+    height: 200px;
+    width:200px;
+    background-color: rgb(56, 212, 17);
+}
+.box3{
+    height: 200px;
+    width:200px;
+    background-color: rgb(170, 196, 27);
+}

@@ -1,0 +1,39 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+
+/* AGR BOX ONE KO KO ENTIRELY MOVE KRNA TU IK BODY BNAO
+GAI USKO WIDTH ASSIGN KRU GY THEN USKI POSITION RELATIVE KRU GY OR BOX 
+USKA PARENT BN JAI GA TU USKO PHR POSITION ABSOLUTE AY G   */
+.box{
+    width: 500px;
+    height: 300px;
+    background-color: black;
+    position: relative;
+    /* left: 10px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px; 
+    AGR CHAHTY HO KA SCROLL BAR NA AY TU X AXIS PR TO  
+    overflow-x: hidden;
+    overflow-y: hidden;
+    */
+    
+
+
+    
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(107, 41, 41);
+    position: absolute;
+    /* top: 0px;
+    left: 0px;
+    right: ; 
+     bottom: 0px;
+    right: 0px; */
+    
+} 

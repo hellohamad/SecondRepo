@@ -1,0 +1,172 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+background-color: black;
+}
+.box{
+    height: 587px;
+    width:1343px;
+    background-color:rgb(0, 0, 0);
+position: relative;
+top:17px;
+left: 12px;
+}
+.box1{
+    height: 159px;
+    width:1343px;
+    background-color:rgb(0, 0, 0);
+position: absolute;
+top:0px;
+}
+.box2{
+    height: 428px;
+    width:500px;
+    background-color:rgb(0, 0, 0);
+position: absolute;
+top:159px;
+}
+.box3{
+    height: 428px;
+    width:633px;
+    background-color:rgb(0, 0, 0);
+position: absolute;
+top:159px;
+left:525px;
+font-family:'IBM Plex Sans';
+
+}
+.box4{
+    height: 260px;
+    width:278px;
+    background-color:rgb(107, 95, 54);
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+position: absolute;
+left:70px;
+top:50px;
+
+}
+.box5{
+    height: 260px;
+    width:278px;
+    
+    background-color:rgb(117, 77, 4);
+position: absolute;
+left:220px;
+top:127px;
+}
+.box6{
+    height: 50px;
+    width:50px;
+    border-radius: 15px;
+    background-color:rgb(255, 0, 0);
+position: absolute;
+left:0px;
+top:215px
+}
+.box7{
+    height: 50px;
+    width:50px;
+    border-radius: 15px;
+    background-color:rgb(255, 0, 0);
+position: absolute;
+left:90px;
+top:215px
+}
+.box8{
+    height: 50px;
+    width:150px;
+    border-radius: 15px;
+    background-color:rgb(255, 0, 0);
+position: absolute;
+left:202px;
+top:215px
+}
+.box9{
+    height: 50px;
+    width:150px;
+    border-radius: 15px;
+    background-color:rgb(255, 0, 0);
+position: absolute;
+left:178px;
+top:93px
+}
+.box10{
+    height: 50px;
+    width:150px;
+    border-radius: 15px;
+    background-color:rgb(255, 0, 0);
+position: absolute;
+left:353px;
+top:93px
+}
+.box11{
+    height: 50px;
+    width:150px;
+    border-radius: 15px;
+    background-color:rgb(255, 0, 0);
+position: absolute;
+left:536px;
+top:93px
+}
+.box12{
+    height: 50px;
+    width:150px;
+    border-radius: 15px;
+    background-color:rgb(255, 0, 0);
+position: absolute;
+left:714px;
+top:93px
+}
+.box13{
+    height: 50px;
+    width:150px;
+    border-radius: 15px;
+    background-color:rgb(255, 0, 0);
+position: absolute;
+left:892px;
+top:93px
+}
+.box14{
+    height: 50px;
+    width:150px;
+    border-radius: 15px;
+    background-color:rgb(255, 0, 0);
+position: absolute;
+left:1070px;
+top:93px
+}
+.box15{
+    height: 50px;
+    width:75px;
+position: absolute;
+left:67px;
+}
+.box16{
+    height: 40px;
+    width:126px;
+position: absolute;
+border-radius: 15px;
+background-color: rgb(255, 5, 5);
+left:176px;
+}
+.box17{
+    height: 40px;
+    width:126px;
+    border-radius: 15px;
+position: absolute;
+background-color: rgb(252, 0, 0);
+left:328px;
+}
+.box18{
+    height: 50px;
+    width:100px;
+position: absolute;
+border-radius: 15px;
+background-color: rgb(255, 0, 0);
+left:1119px;
+}

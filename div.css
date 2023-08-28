@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing:border-box ;
+}
+
+/* body{
+    background-color: blue;
+} */
+
+
+.box1{
+    width:500 ;
+    height: 44px;
+    background-color: blue;
+    margin: 0% auto;
+    /* /* we use border to add border px type of border(solid,dotted,dashed) color of border */
+    border: 5px solid yellow;
+    /* Radius is used to sharp the border  */
+    /* border-radius: 1px; */
+    /* IF NEED DIFFERNT BORDER AT DIFFERNT SIDE YOU CAN ALSO USE OPTIONS SUCH AS  */
+    border-top-color: black ;
+    border-bottom-color: pink;
+    border-left-color: yellow;
+    border-right-color:  blue;
+   border-top-left-radius: 0%;
+   border-bottom-right-radius:2%;
+   border-bottom-right-radius:2% ;
+   border-bottom-left-radius:2%;
+}
+
+/* .box2{
+    width: 100px;
+    height: 200px;
+    background-color:pink;
+    
+} */
+
+.backgroundimage{
+    background-image: url("https://images.unsplash.com/photo-1508919801845-fc2ae1bc2a28?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW1nfGVufDB8fDB8fHww&w=1000&q=80");
+  height: 500px;
+  width: 500px;
+margin: 0% auto;
+background-position:top;
+background-image:no-repeat;
+
+}

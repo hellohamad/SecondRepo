@@ -1,0 +1,77 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20221205/pngtree-school-and-education-related-objects-seamless-pattern-image_1489374.jpg");
+}
+.box1{
+    height: 550px;
+    width: 1000px;
+    background-color: white;
+    margin: 0% auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+     border: 2px solid black; 
+   
+    position: relative;
+}
+
+.box2{
+height:546px;
+width:417px ;
+background-color:#e7e7e7;
+position: absolute;
+right: 0%;
+} 
+ .box3{
+    height:234px;
+    width:392px ;
+    background-color:#e7e7e7;
+    position: absolute;
+    top:61px;
+    right: 25px;
+   
+    } 
+    .box4{
+        height:213.5px;
+        width:391px ;
+        background-color:#e7e7e7;
+        position: absolute;
+        top:332px;
+        right: 10px;
+        font-family: 'Noto Nastaliq Urdu', serif;
+        font-size: larger;
+        } 
+      
+            .box5{
+                height:87.5px;
+                width:528px;
+                background-color:#ffffff;
+                position: absolute;
+               right: 420px; 
+               top:32px;
+               
+               
+
+                } 
+                .box6{
+                    margin: 0% auto;
+                    height:423px;
+                    width:579px;
+                    background-color:#ffffff;
+                    position: absolute;
+                   right: 417px; 
+                    top: 123px;
+                    font-family: 'Rubik', sans-serif;
+                    } 
+                    .box07{
+                        width: 125px;
+                        height: 41px;
+                        color: rgb(75, 122, 188);
+                        position: absolute;
+                        right: 0px;
+                        font-size: small;
+                        font-family: Arial, Helvetica, sans-serif;
+                   }

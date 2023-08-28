@@ -1,0 +1,72 @@
+/* h1{
+    color: red;
+} */
+/* .t1{
+    color: aquamarine;
+    background-color: bisque;
+    text-align: center;
+}
+.t2{
+    color: black;
+    background-color: red;
+    text-align: center;
+}
+.t3{
+    color: yellow;
+    background-color: pink;
+    text-align: center;
+}
+.t4{
+    color: grey;
+    background-color: orange;
+    text-align: center;
+} */
+/* PROPERTIES YOU CAN USE IN CLASS */
+/* .title1{
+    color:red;
+    background-color: black;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Cambria';
+    font-style: italic;
+
+
+}
+.title2{
+/* IF YOU WANT TO USE FONT OF YOUR OWN SIZE IF ITS NOT IN VS CODE GO TO GOOGLE FONTS LIb; */
+/* paste it in before title */
+/* font-family: 'Rubik', sans-serif;
+color:red;
+background-color: black;
+text-align: center;
+font-size: 50px;
+font-style: italic;
+} */ 
+/* IN EVERY CSS FILE MUST WRITE THIS TO COVER THE MARGIN */
+/* steric means for all, border box ka matlb ye ka jha pr box end huga agli padding wahi sy chly g */
+/* margin ka mtlb ha box ko outside sy space dena */
+/* PADDING KA MTLB HA BOX KA ANDR SY SPACE DENA */
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.box{
+color:red;
+background-color: black;
+text-align: center;
+width: 500px;
+height:1000px;
+margin-left: 450px;
+margin-right:450px;
+/* YOU CAN ALSO USE TRBL KEY WORD INSTEAD OF THIS FOUR margin */
+/* margin:500px 500px 500px 500px ;
+background-color: black;
+text-align: center; */
+/* YOU CAN ALSO USE THIS METHOD TO MAKE A CONTAINER IN CENTER AS WELL */
+/* Opx means no margin and in auto it will calculate automatically the left and right margin */
+/* padding left and right is used to expand box from inside  */
+margin:0px auto;
+
+}
+
