@@ -1,0 +1,18 @@
+/* .name{
+    color: green;
+    background-color: aquamarine;
+    text-align: center;
+}
+.nameout{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    text-align: start;
+} */
+.monthname{
+color: rgb(0, 0, 0);
+background-color: grey;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: large;
+text-align: center;
+
+}
